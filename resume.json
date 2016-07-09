@@ -1,0 +1,126 @@
+{
+  "basics": {
+    "name": "Jerry Vrabel",
+    "label": "Web Developer",
+    "picture": "",
+    "email": "jv@forwardslashinc.com",
+    "phone": "(312) 961-4145",
+    "website": "http://jv.lc",
+    "summary": "The sum of my professional experience has been helping people and organizations leverage technology. I am a full-stack developer whose passion lies in building quality web application, and sites.",
+    "location": {
+      "address": "3412 Lee Ave",
+      "postalCode": "IL 60031",
+      "city": "Gurnee",
+      "countryCode": "US",
+      "region": "Illinois"
+    },
+    "profiles": [
+      {
+        "network": "Github",
+        "username":"Forwardslash",
+        "url": "https://github.com/Forwardslash"
+      },
+      {
+        "network": "Twitter",
+        "username": "jv_forwardslash",
+        "url": "https://twitter.com/jv_forwardslash"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "jvworldwide",
+        "url": "https://www.linkedin.com/in/jvworldwide"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Forwardslash Development Inc.",
+      "position": "Founder",
+      "website": "http://forwardslashinc.com",
+      "startDate": "2005-5-01",
+      "summary": "Forwardslash develops and intregrates open source projects for commercial production.",
+      "highlights": [
+        "Drupal and Wordpress integrations, themes, custom modules, plugin developement, maintaince, and updating services",
+        "Custom Development",
+        "Web Services - Hosting, administration, package updating, database, mail and other web services"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Web Development",
+      "level": "Master",
+      "keywords": [
+        "Javascript",
+        "PHP",
+        "Ruby",
+        "HTML",
+        "CSS",
+        "SASS"
+      ]
+    },
+    {
+      "name": "Frameworks",
+      "keywords": [
+        "Angular",
+        "jQuery",
+        "React",
+        "Symfony",
+        "Laravel",
+        "Rails",
+        "Bootstrap"
+      ]
+    },
+    {
+      "name": "Databases",
+      "keywords": [
+        "MySQL",
+        "PostgreSQL",
+        "MariaDB",
+        "MongoDB"
+      ]
+    },
+    {
+      "name": "Environments",
+      "keywords": [
+        "Linux",
+        "Mac OS",
+        "Windows",
+        "Docker",
+        "VirtualBox"
+      ]
+    }
+],
+  "education": [
+    {
+      "institution": "Illinois State University",
+      "area": "Political Science",
+      "studyType": "Bachelor"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Continual Learning",
+      "keywords": [
+        "Programming",
+        "Internet of Things",
+        "Rasberry Pi",
+        "Arduino"
+      ]
+    },
+    {
+      "name": "Arts",
+      "keywords": [
+        "Guitar",
+        "Oil Painting",
+        "Photography"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "name": "Nathan Striedinger",
+      "reference": "It is my pleasure to recommend Jerry, his performance working as a consultant for Forwardslash Inc. proved that he will be a valuable addition to any company."
+    }
+  ]
+}
