@@ -4,4 +4,4 @@ Hi all!  I am currently looking for a position as a web developer working on int
 ##To Do's
 1. Update to-do's
 2. Add portfolio links
-3. update portfolio
+3. Update portfolio
